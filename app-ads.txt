@@ -1,0 +1,5 @@
+# app-ads.txt template
+# Add each authorized advertising system below, one per line.
+# Format: <ad system domain>, <publisher ID>, <relationship type>, <certification authority ID>
+
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
